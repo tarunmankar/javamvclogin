@@ -2,7 +2,7 @@
 
 1. IDE: Eclipse, Database: oracle Ojdbc14.jar, Server: Tomcat v9
 2. Create a Dynamic Web Project (Web Module version 2.4)
-3. Right click on project (MVC2) Go to Build Path add Ojdbc14.jar in libraries.
+3. Right click on project Go to Build Path add Ojdbc14.jar in libraries.
 4. Go to web deployment assembly add Ojdbc14.jar.
 
 Frontend
