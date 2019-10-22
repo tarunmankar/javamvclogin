@@ -19,7 +19,7 @@ Backend
  - Register.java (Servlet file)
  - Login.java (Servlet file)
  
- Database Table - student
+ Database Table - student1
  sql Query-
 
  CREATE TABLE  "STUDENT1" 
