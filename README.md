@@ -1,4 +1,4 @@
-# java-MVC-login-and-registration
+# java-jsp-servlet-MVC-login-and-registration
 
 1. IDE: Eclipse, Database: oracle Ojdbc14.jar, Server: Tomcat v9
 2. Create a Dynamic Web Project (Web Module version 2.4)
